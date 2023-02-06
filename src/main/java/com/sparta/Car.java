@@ -5,14 +5,14 @@ public class Car {
     private int numberOfWheels = 4;
     private String colour = "red";
 
-    private boolean catVatApproved = true;
+    private boolean catVarApproved = true;
 
     public boolean isCarVatApproved() {
-        return catVatApproved;
+        return catVarApproved;
     }
 
-    public void honk() {
-        System.out.println("This car honks");
+    public String honk() {
+        return "honk";
     }
 
     public int getNumberOfWheels() {
