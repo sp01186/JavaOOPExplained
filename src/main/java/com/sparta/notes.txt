@@ -1,0 +1,38 @@
+OOP four pillars
+
+OOP - programming bases around the concept of objects
+
+Objects - contains data in the form of properties and methods
+
+Every class extends Object.
+
+A PIE
+
+Abstraction - hide away the implementation details from
+the user
+
+
+
+Polymorphism - Ability of a class to run a method in two
+or more different ways.
+
+poly = many, morph = forms
+
+
+Inheritance - encourages code re-usability by letting one
+object acquire the properties and methods of another object
+
+IS a relationship
+
+sub class has an IS a relationship with the super class. E.g ford fiesta is a car.
+Super class / parent class / base class
+                                    < -
+                                        sub class / child class / extended
+
+Encapsulation - Built on the idea of data hiding
+               -we restrict access to certain properties or methods of an object to
+               whatever is calling it
+
+   private access properties
+
+   accessed through getter and setter.
